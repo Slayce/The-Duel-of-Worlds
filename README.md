@@ -3,7 +3,7 @@ Hearthstone-like game made in a team of 7 in Java for a school project.
 I was in charge of the software architecture and of the coordination of the different sub-teams of two we created. The sub-team I was in was in charge of the core of the program (package jeu), but I also helped with the GUI one (package ihm).
 
 ## Description 
-The goal of this school project was to make great use of MVC design pattern using the Java Swing GUI toolkit, and we decided to create a game based on the idea of Heartstone.
+The goal of this school project was to make great use of MVC design pattern using the Java Swing GUI toolkit, and we decided to create a game based on the idea of Heartstone. We also had to organise ourselves using SCRUM methods.
 
 The idea is that two different universes fight against each other. By default, there are two universes available : Star Wars and Harry Potter. We created a set of cards with life and attack points for each universe.
 
