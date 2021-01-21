@@ -1,0 +1,31 @@
+nom,degats,cout,type,pv
+Hermione Granger,10,2,INDIVIDUEL,15
+Ron Weasley,7,1,INDIVIDUEL,10
+Neville Londubat,7,1,INDIVIDUEL,7
+Luna Lovegood,5,1,INDIVIDUEL,15
+Ginny Weasley,7,1,INDIVIDUEL,13
+Cho Chang,10,2,INDIVIDUEL,15
+Hedwige,7,2,GROUPE,10
+Pattenrond,10,4,GROUPE,5
+Sirius Black,5,1,GROUPE,10
+Hagrid,15,4,GROUPE,20
+Dumbledore,10,4,GROUPE,25
+McGonagall,10,4,GROUPE,20
+Serverus Rogue,8,2,INDIVIDUEL,15
+Remus Lupin,15,4,INDIVIDUEL,20
+Arthur Weasley,5,2,INDIVIDUEL,25
+Molly Weasley,5,1,INDIVIDUEL,10
+Nymphadora Tonks,5,1,INDIVIDUEL,5
+Maugrey Fol'Oeil,5,2,INDIVIDUEL,15
+Crockdur,7,2,INDIVIDUEL,10
+Drago Malefoy,7,1,INDIVIDUEL,15
+Lucius Malefoy,10,2,INDIVIDUEL,7
+Professeur Quirrel,10,1,INDIVIDUEL,7
+Bellatrix Lestrange,8,2,INDIVIDUEL,15
+Peter Queuedver Pettigrow,7,2,INDIVIDUEL,14
+Greyback,8,2,INDIVIDUEL,15
+Dolores Ombrage,15,4,INDIVIDUEL,20
+Detraqueur,7,4,INDIVIDUEL,15
+Aragog,5,2,INDIVIDUEL,15
+Nagini,3,1,INDIVIDUEL,6
+Basilic,7,2,INDIVIDUEL,10
